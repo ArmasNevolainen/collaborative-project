@@ -2,7 +2,9 @@
 function About() {
   return (
     <>
-      <h2>About Us</h2>
+      <h1>About Us</h1>
+      <p>Added some text</p>
+      <p>Added more text here</p>
       <p>Discover more about our team and values.</p>
     </>
   );
